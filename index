@@ -1,0 +1,96 @@
+Enter file contents hereC:\Users\cameron\Desktop\BV Hosting account\index.htm
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtmll/DTD/xhtmll-transitional.dtd">
+
+<html xmlns="http://www.w3.org.com/1999/xhtml">
+	<head>
+	
+	<title>Burning Vizion - Login</title>
+	</head>
+	<body>
+	<IMG width="172" height="256" src="https://mail.google.com/mail/u/0/?ui=2&ik=06c872c655&view=att&th=14380c25c89357b4&attid=0.1&disp=safe&zw">
+	
+	<style align="center" type="text/css" >
+body { background-color:#000066;
+	   color:#CCCCCC;
+	   font-family:Script,san-serif;
+	   font-size:22px
+	 }
+	 
+<style align="center" type="text/css" >
+.button { border: 12px inset #cccccc;
+		 width: 100px;
+		 padding:15px 30px;
+		 color:#FFFFFF
+		 background-color:#006600;
+		 font-family: Script, Informal Roman;
+		 font-size: 64px;
+		 font-weight: bold;
+		 text-align: center;
+		 text-decoration:none;
+		 a.button:link { color : #FFFFFF; }
+		 a.button:visited { color : #66cc33;
+		 a.button:hover { color : #cccccc;
+		 }
+		}
+		}
+</style>
+
+	<div align=\"center\">
+	
+	<br />
+
+
+	<br />
+	
+	<form action=\"login.php\" method=\"post\">
+	
+	
+	<fieldset>
+
+			<label for=\"user\">Username</label> <input type=\"text\" class=\"loginInput\" size=\"20\" name=\"username\"><br />
+	
+			
+			<label for=\"pass\">Password</label> <input type=\"password\" class=\"loginInput\" AUTOCOMPLETE=\"off\" size=\"20\" name=\"password\"><br />
+			
+			
+								<a href="index.htm" class="button">Login</a>
+								<a class=\"submit\"> 	<class type="button" value= " login">
+								<a href="index.htm" </a>
+									<script> #include <stdio.h>
+ 
+int main(Hey wats up)
+{
+     /* Our first simple C basic program */
+     printf("Hello World! ");
+     getch();
+     return main()
+
+ </script>
+			
+
+	</fieldset>
+
+	</form>
+
+
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />	
+
+	<!-- <img src=\"Home.html\" /> -->
+	
+	<p>Burning Vizion (B.V.) is a Continuing Art Project</p>
+	
+	</div> <!-- end align div -->
+
+</body>
+
+</html>
